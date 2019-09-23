@@ -1,0 +1,14 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xiunen/sudoku.git",
+  "author": "Xiuneng Chen <xiuneng.chen@shopee.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./src/tests/generate.test.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
