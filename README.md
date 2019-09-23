@@ -1,2 +1,2 @@
 # sudoku
-数独
+## Sudoku Generator algorithm
